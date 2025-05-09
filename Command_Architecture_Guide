@@ -1,0 +1,82 @@
+1. CORE CONCEPTS
+-----------------
+- Command Architecture: Framework for decision authority, structure, and flow in operations.
+- C2 (Command & Control): Exercise of authority over assigned forces to accomplish a mission.
+- C3 (Command, Control, Communications): Expanded focus including communication systems.
+- C4ISR: Command, Control, Communications, Computers, Intelligence, Surveillance, Reconnaissance.
+
+2. ARCHITECTURAL FRAMEWORKS
+----------------------------
+- DoDAF (Department of Defense Architecture Framework)
+  - AV-1: Overview and Summary
+  - OV-1 to OV-6: Operational Views
+  - SV-1 to SV-10: System Views
+  - DIV-1 to DIV-3: Data and Information Views
+
+- NATO C3 Taxonomy
+  - COP (Common Operational Picture)
+  - ICC (Interoperable Command Capability)
+  - LOCE (Levels of Command Engagement)
+
+- ISO/IEC/IEEE 42010
+  - Architecture Description (AD)
+  - Stakeholders, Concerns, Views, Viewpoints
+
+3. COMMAND LEVELS
+------------------
+- Strategic: Policy, direction (e.g., National Command Authority)
+- Operational: Campaign planning and major operations
+- Tactical: Execution of missions and tasks
+
+4. KEY ELEMENTS
+---------------
+- Decision Rights: Who decides what and when
+- Span of Control: Scope of responsibility
+- Delegation: Levels of decision autonomy
+- Synchronization: Timely and coherent action
+- Situational Awareness: Real-time understanding of the operational picture
+
+5. GOVERNANCE STRUCTURES
+-------------------------
+- Centralized: Strong control, slower reaction
+- Decentralized: Fast reaction, needs trust and competence
+- Federated: Balance between central coordination and local autonomy
+
+6. DECISION SUPPORT SYSTEMS
+----------------------------
+- Role-based dashboards
+- Rule-based engines
+- AI/ML predictive analytics
+- Kill chain automation (Find-Fix-Track-Target-Engage-Assess)
+
+7. INTEROPERABILITY PRINCIPLES
+-------------------------------
+- Technical: Protocols, APIs, data formats
+- Semantic: Shared meanings (ontologies, data dictionaries)
+- Organizational: Agreements, SOPs, ROEs
+- Procedural: Common workflows and TTPs
+
+8. COMMON TOOLS & LANGUAGES
+----------------------------
+- SysML / UML: System modeling
+- BPMN: Process modeling
+- ArchiMate: Enterprise architecture
+- STANAGs: NATO standard agreements
+
+9. CONOPS STRUCTURE (ABBREVIATED)
+---------------------------------
+- Mission Statement
+- Concept of Employment
+- Roles and Responsibilities
+- Information Flows
+- Interoperability Requirements
+- Timeline / Phases
+- Risks and Mitigations
+
+10. METRICS & KPIs
+-------------------
+- Decision latency
+- Situational awareness accuracy
+- Command agility
+- Synchronization effectiveness
+- Mission completion rate
