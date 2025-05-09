@@ -1,0 +1,26 @@
+Video Game Command Architecture
+│
+├── Strategic Layer (Game Mastery & AI Director)
+│   ├── Game Objective Management
+│   ├── Dynamic Scenario Generation
+│   ├── Player Progression Systems
+│   └── AI Director (Pacing & Challenge Scaling)
+│
+├── Operational Layer (Game Systems Coordination)
+│   ├── Mission/Quest Control Engine
+│   ├── Faction/Team Behavior Systems
+│   ├── Resource & Economy Management
+│   └── Environmental Control (Weather, Terrain, Events)
+│
+├── Tactical Layer (Unit & Agent Control)
+│   ├── AI Behavior Trees / Decision Trees
+│   │   ├── Patrol / Guard / Search
+│   │   └── Attack / Defend / Flee
+│   ├── Player Input Interpreter
+│   └── NPC State Management
+│
+└── Execution Layer (System Interfaces & Feedback)
+    ├── Animation & Physics Engine
+    ├── Audio/Visual Feedback System
+    ├── Collision Detection
+    └── Network Synchronization (for multiplayer)
