@@ -1,4 +1,4 @@
-![Terminal_GIF](https://github.com/user-attachments/assets/c802a990-170f-4120-8b2d-4717c5f083d6)
+![Terminal](https://github.com/user-attachments/assets/c0a3e379-2473-4d0c-b5b1-478947c458c7)
 
 #
 
