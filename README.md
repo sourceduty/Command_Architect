@@ -70,3 +70,7 @@ The Program Command Architecture topology for robotics is a hierarchical model t
 [Linux Simulator](https://chatgpt.com/g/g-i4BbAiInr-linux-simulator)
 <br>
 [Arch Linux Simulator](https://chatgpt.com/g/g-SYkRXlw3j-arch-linux-simulator)
+<br>
+[Terminal Simulator](https://chatgpt.com/g/g-9MywumX92-terminal-simulator)
+<br>
+[Vintage Prompt](https://chatgpt.com/g/g-mg39xadeq-vintage-prompt)
