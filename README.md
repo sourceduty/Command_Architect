@@ -64,6 +64,51 @@ The Program Command Architecture topology for robotics is a hierarchical model t
 
 #
 
+```
+Robotic System Command Architecture Hierarchy Topology
+
+GOVERNANCE LAYER
+│
+├── Applies to:
+│   ├── COMMAND LAYER
+│   │   ├── Strategic Command Authority
+│   │   ├── Mission Planning & Objective Allocation
+│   │   └── Rules of Engagement
+│   │
+│   ├── CONTROL LAYER
+│   │   ├── Tactical Command & Decision Support
+│   │   ├── Human-Machine Interfaces (HMI)
+│   │   ├── Adaptive Mission Re-Planning
+│   │   └── AI Advisors / Cognitive Agents
+│   │
+│   ├── EXECUTION LAYER
+│   │   ├── Autonomy Core (Planning, Reasoning, Execution)
+│   │   ├── Sensor Fusion & Perception Modules
+│   │   ├── Actuation Control Systems
+│   │   └── Navigation & Manipulation Engines
+│   │
+│   ├── PLATFORM LAYER
+│   │   ├── Robotic Mobility Systems (UGV, UAS, Arm, Rover)
+│   │   ├── Payload / Manipulator Mechanisms
+│   │   └── Embedded Compute & Power Subsystems
+│   │
+│   └── COMMUNICATION LAYER
+│       ├── Internal Data Buses (CAN, OPC UA, EtherCAT)
+│       ├── Tactical / Operational Data Links (5G, SATCOM, DTN)
+│       └── External Interfaces (Cloud, Edge, Command Networks)
+│
+├── Governance Artifacts:
+    ├── Mission Doctrine / CONOPS
+    ├── Regulatory & Safety Standards
+    └── Interoperability Policies (STANAG, ISO, ECSS)
+```
+
+This Standardized Command Architecture for Robotic Systems is a hierarchical model that delineates six core layers—Governance, Command, Control, Execution, Platform, and Communication—each representing a functional and structural tier within autonomous or semi-autonomous robotic systems. At the apex, the Governance Layer imposes overarching policy, safety, and interoperability constraints, extending its influence downward through every other layer. It embodies doctrinal guidance (e.g., CONOPS), regulatory mandates (e.g., safety certifications), and standardization frameworks (e.g., STANAG, ISO), ensuring that all subsystems conform to mission-aligned, legal, and interoperable practices.
+
+Beneath governance, the architecture flows logically: the Command Layer articulates strategic intent and mission objectives, which are interpreted by the Control Layer into executable plans via human-machine interfaces and decision-support agents. These plans are then enacted by the Execution Layer, where autonomy engines, sensor fusion, and task management modules coordinate robotic behavior. The Platform Layer comprises the physical subsystems—mobility systems, manipulators, and onboard compute—that directly interface with the environment. Underpinning all of these is the Communication Layer, which ensures data integrity and synchronization across internal buses and external links. Together, this architecture provides a modular, scalable, and policy-compliant foundation for designing, integrating, and validating complex robotic systems across defense, industrial, medical, and exploratory domains.
+
+#
+
 [Command Architect](https://chatgpt.com/g/g-681db21c5a788191b8a0c83d7d52c48f-command-architect)
 <br>
 [Business](https://github.com/sourceduty/Business)
