@@ -19,54 +19,6 @@ The importance of command architecture in programming and AI systems becomes esp
 ```
 Robotics Program Command Architecture Hierarchy Topology
 
-[0] Strategic Governance Layer
-    ├── [0.1] National Robotics and AI Policy Authorities
-    ├── [0.2] Ethics, Safety & Human-Machine Integration Oversight
-    └── [0.3] Interagency Robotics and Autonomy Councils
-
-[1] Enterprise Command Layer
-    ├── [1.1] Robotics Program Executive Office (R-PEO)
-    │   ├── [1.1.1] Robotics Portfolio Governance Boards
-    │   ├── [1.1.2] Autonomy Investment and Risk Review Panels
-    │   └── [1.1.3] Compliance & Assurance Functions (e.g., ISO 13482)
-    └── [1.2] Strategic Robotics Capability Integration
-        ├── [1.2.1] Doctrine, Ethics & Policy Harmonization
-        └── [1.2.2] Interoperability and Standards Alignment (e.g., ROS, IEEE)
-
-[2] Operational Command Layer
-    ├── [2.1] Robotics Program Management Offices (R-PMOs)
-    │   ├── [2.1.1] Autonomy Requirements Engineering
-    │   ├── [2.1.2] Lifecycle Acquisition and Certification
-    │   └── [2.1.3] Integrated Robotics Development Teams (IRDTs)
-    └── [2.2] Operational Concepts of Use (CONUSE)
-        ├── [2.2.1] Robotic Mission Thread Development
-        └── [2.2.2] Simulation-Based Use Case Modeling
-
-[3] Technical/System Architecture Layer
-    ├── [3.1] Robotics Systems Engineering Division
-    │   ├── [3.1.1] Architecture Modeling (e.g., ISO/IEC/IEEE 42010, ROS 2)
-    │   ├── [3.1.2] Sensor & Actuator Integration Views
-    │   └── [3.1.3] Technical Baselines & Safety Standards
-    └── [3.2] Autonomy Software and Platform Integration
-        ├── [3.2.1] AI/ML Development Pipelines & CI/CD
-        └── [3.2.2] Simulation, V&V, and Digital Twin Environments
-
-[4] Tactical Execution Layer
-    ├── [4.1] Edge Robotics Command Nodes
-    │   ├── [4.1.1] Human-Robot Interaction Interfaces (e.g., HMI, AR/VR)
-    │   └── [4.1.2] Autonomous Control and Decision Loops
-    └── [4.2] Field Feedback & Continuous Learning
-        ├── [4.2.1] Telemetry, Health Monitoring & Logs
-        └── [4.2.2] Adaptive Feedback & Operator Lessons Learned
-```
-
-The Program Command Architecture topology for robotics is a hierarchical model that organizes the governance, design, deployment, and operational control of robotic systems across strategic to tactical levels. At the top, the Strategic Governance layer defines national and organizational priorities for autonomy and robotics, driven by policies, ethical frameworks, and oversight bodies ensuring compliance with safety, security, and human-machine integration standards. The Enterprise Command Layer translates this vision into portfolios managed by Program Executive Offices (PEOs), overseeing investment strategies, risk governance, and cross-domain alignment—such as ensuring robotics integration with cyber-physical systems, AI directives, and multi-domain operations. The Operational Command Layer is where robotic programs are structured through Program Management Offices (PMOs), which manage lifecycle processes from requirements engineering to test and evaluation, while also crafting operational concepts of use (CONUSE) that define how robots are to be deployed in realistic mission scenarios. The Technical/System Architecture Layer supports this with system-of-systems engineering teams who develop robotics control architectures, sensor fusion frameworks, and autonomy stacks, ensuring conformance with standards like ROS, ISO 10218, or MIL-STD-1553, while leveraging CI/CD and simulation environments to optimize performance and safety. At the base, the Tactical Execution Layer embodies real-world robotic deployment via mission control nodes, edge-AI systems, and human-robot teaming interfaces, incorporating real-time command, health monitoring, and adaptive decision loops fueled by telemetry and operator feedback. This architecture enables modularity, interoperability, and lifecycle resilience for robotic programs across defense, industrial, and civil domains.
-
-#
-
-```
-Robotic System Command Architecture Hierarchy Topology
-
 GOVERNANCE LAYER
 │
 ├── Applies to:
@@ -103,9 +55,7 @@ GOVERNANCE LAYER
     └── Interoperability Policies (STANAG, ISO, ECSS)
 ```
 
-This Standardized Command Architecture for Robotic Systems is a hierarchical model that delineates six core layers—Governance, Command, Control, Execution, Platform, and Communication—each representing a functional and structural tier within autonomous or semi-autonomous robotic systems. At the apex, the Governance Layer imposes overarching policy, safety, and interoperability constraints, extending its influence downward through every other layer. It embodies doctrinal guidance (e.g., CONOPS), regulatory mandates (e.g., safety certifications), and standardization frameworks (e.g., STANAG, ISO), ensuring that all subsystems conform to mission-aligned, legal, and interoperable practices.
-
-Beneath governance, the architecture flows logically: the Command Layer articulates strategic intent and mission objectives, which are interpreted by the Control Layer into executable plans via human-machine interfaces and decision-support agents. These plans are then enacted by the Execution Layer, where autonomy engines, sensor fusion, and task management modules coordinate robotic behavior. The Platform Layer comprises the physical subsystems—mobility systems, manipulators, and onboard compute—that directly interface with the environment. Underpinning all of these is the Communication Layer, which ensures data integrity and synchronization across internal buses and external links. Together, this architecture provides a modular, scalable, and policy-compliant foundation for designing, integrating, and validating complex robotic systems across defense, industrial, medical, and exploratory domains.
+The Program Command Architecture topology for robotics is a hierarchical model that organizes the governance, design, deployment, and operational control of robotic systems across strategic to tactical levels. At the top, the Strategic Governance layer defines national and organizational priorities for autonomy and robotics, driven by policies, ethical frameworks, and oversight bodies ensuring compliance with safety, security, and human-machine integration standards. The Enterprise Command Layer translates this vision into portfolios managed by Program Executive Offices (PEOs), overseeing investment strategies, risk governance, and cross-domain alignment—such as ensuring robotics integration with cyber-physical systems, AI directives, and multi-domain operations. The Operational Command Layer is where robotic programs are structured through Program Management Offices (PMOs), which manage lifecycle processes from requirements engineering to test and evaluation, while also crafting operational concepts of use (CONUSE) that define how robots are to be deployed in realistic mission scenarios. The Technical/System Architecture Layer supports this with system-of-systems engineering teams who develop robotics control architectures, sensor fusion frameworks, and autonomy stacks, ensuring conformance with standards like ROS, ISO 10218, or MIL-STD-1553, while leveraging CI/CD and simulation environments to optimize performance and safety. At the base, the Tactical Execution Layer embodies real-world robotic deployment via mission control nodes, edge-AI systems, and human-robot teaming interfaces, incorporating real-time command, health monitoring, and adaptive decision loops fueled by telemetry and operator feedback. This architecture enables modularity, interoperability, and lifecycle resilience for robotic programs across defense, industrial, and civil domains.
 
 #
 
