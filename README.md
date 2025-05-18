@@ -1,4 +1,4 @@
-![Command Architect 2](https://github.com/user-attachments/assets/06f52efa-274d-41aa-bffa-2d78769a7e1b)
+![Terminal_GIF](https://github.com/user-attachments/assets/c802a990-170f-4120-8b2d-4717c5f083d6)
 
 #
 
