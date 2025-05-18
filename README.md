@@ -1,4 +1,4 @@
-![Terminal](https://github.com/user-attachments/assets/c0a3e379-2473-4d0c-b5b1-478947c458c7)
+![Humanoid Control](https://github.com/user-attachments/assets/fb33331a-9361-49af-8a3a-8050845d7d61)
 
 #
 
@@ -6,8 +6,6 @@ Command architecture is the structured framework that defines how authority, res
 
 The effectiveness of a command architecture lies in its ability to create decision advantage, enhance situational awareness, and reduce cognitive and organizational friction across complex, multi-domain environments. By clearly delineating who is authorized to make what decisions, under what circumstances, and with access to what data, it ensures that operational tempo is sustained without sacrificing accountability or mission coherence. It supports scalability from tactical to strategic levels and adaptability in contested, degraded, or denied environments. Moreover, a well-structured command architecture enables the seamless integration of emerging technologies such as AI-enabled decision aids, autonomous platforms, and distributed ledger systems, facilitating faster sense-making and action cycles. Ultimately, command architecture acts as the backbone of operational effectiveness—it orchestrates capabilities, synchronizes efforts, and safeguards unity of command while empowering initiative within well-defined boundaries.
 
-#
-![Humanoid Control](https://github.com/user-attachments/assets/fb33331a-9361-49af-8a3a-8050845d7d61)
 #
 
 In the domain of programming and artificial intelligence, command architecture refers to the structured design of how software systems—particularly intelligent agents and multi-agent frameworks—receive, interpret, and act on instructions or goals. It establishes the hierarchy and protocol by which commands are issued, decomposed into tasks, assigned to computational entities, and executed in accordance with both system rules and contextual awareness. In AI-driven systems, command architecture is crucial for orchestrating coordination between reasoning engines, perception modules, decision policies, and actuator interfaces. It defines how control flows between modules (e.g., from high-level planners to low-level controllers) and governs the interactions among autonomous components operating with varying degrees of agency. This structure ensures coherence in decision-making, minimizes latency in response loops, and enforces policy and constraint adherence across distributed systems. For example, in reinforcement learning-based agents or robotics, a layered command architecture might distinguish between deliberative planning, reactive control, and learning adaptation, each with defined inputs and outputs governed by the system's operational doctrine.
