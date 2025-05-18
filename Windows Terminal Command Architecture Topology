@@ -1,0 +1,73 @@
+Windows Terminal Command Architecture Topology
+
+Windows Terminal
+├── User Interface
+│   ├── Tabs and Panes Manager
+│   │   ├── Tab Controller
+│   │   ├── Pane Splitter
+│   │   └── Session Tracker
+│   ├── Input Handler
+│   │   ├── Keyboard Event Listener
+│   │   ├── Mouse Interaction Manager
+│   │   └── Clipboard Handler
+│   ├── Shortcut Manager
+│   │   ├── Keybinding Loader (JSON)
+│   │   └── Action Dispatcher
+│   ├── Settings UI
+│   │   ├── Graphical Editor
+│   │   └── JSON Config Validator
+│   └── Profile Picker
+│       ├── Profile List Renderer
+│       └── Selection Controller
+
+├── Command Dispatcher
+│   ├── Action Binding System
+│   │   ├── Action Definitions (built-in + user-defined)
+│   │   └── Context Evaluator
+│   ├── Key Mapping Parser
+│   │   ├── JSON Deserializer
+│   │   └── Keybinding Schema Validator
+│   └── Command Execution Engine
+│       ├── Action Invocation Core
+│       └── Asynchronous Execution Handler
+
+├── Shell Launcher
+│   ├── Profile Manager
+│   │   ├── Static Profile Loader (JSON-defined)
+│   │   ├── Dynamic Profile Generator
+│   │   │   ├── WSL Detector
+│   │   │   ├── SSH Host Importer
+│   │   │   └── Azure Cloud Shell Integrator
+│   │   └── Defaults and Overrides Resolver
+│   ├── Process Spawner
+│   │   ├── Command Line Builder
+│   │   └── Shell Startup Executor
+│   └── Environment Initializer
+│       ├── Working Directory Resolver
+│       ├── Environment Variable Injector
+│       └── Startup Argument Parser
+
+├── Console Host (ConPTY)
+│   ├── Pseudo Console API Wrapper
+│   │   ├── ConPTY Instance Manager
+│   │   └── PTY Lifecycle Controller
+│   ├── I/O Stream Handler
+│   │   ├── Input Multiplexer
+│   │   └── Output Demultiplexer
+│   └── Resize and Signal Handler
+│       ├── Terminal Resize Listener
+│       └── Signal Propagation Controller
+
+└── Text Renderer
+    ├── Rendering Engine
+    │   ├── Text Layout Engine
+    │   ├── Glyph Shaper and Atlas
+    │   ├── Color Scheme Manager
+    │   └── Unicode & BiDi Support
+    └── Output Driver
+        ├── DirectX Integration Layer
+        │   ├── DXGI Context Handler
+        │   └── Texture and Swapchain Manager
+        └── GPU/Display Synchronizer
+            ├── Frame Scheduler
+            └── VSync Handler
