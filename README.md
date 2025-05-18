@@ -59,6 +59,10 @@ The Program Command Architecture topology for robotics is a hierarchical model t
 
 #
 
+![Terminal Hacker](https://github.com/user-attachments/assets/91d024cf-8770-48b7-a5ac-b67953296a99)
+
+#
+
 [Command Architect](https://chatgpt.com/g/g-681db21c5a788191b8a0c83d7d52c48f-command-architect)
 <br>
 [Business](https://github.com/sourceduty/Business)
