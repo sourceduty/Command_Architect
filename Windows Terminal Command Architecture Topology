@@ -19,7 +19,7 @@ Windows Terminal
 │   └── Profile Picker
 │       ├── Profile List Renderer
 │       └── Selection Controller
-
+|
 ├── Command Dispatcher
 │   ├── Action Binding System
 │   │   ├── Action Definitions (built-in + user-defined)
@@ -30,7 +30,7 @@ Windows Terminal
 │   └── Command Execution Engine
 │       ├── Action Invocation Core
 │       └── Asynchronous Execution Handler
-
+|
 ├── Shell Launcher
 │   ├── Profile Manager
 │   │   ├── Static Profile Loader (JSON-defined)
@@ -46,7 +46,7 @@ Windows Terminal
 │       ├── Working Directory Resolver
 │       ├── Environment Variable Injector
 │       └── Startup Argument Parser
-
+|
 ├── Console Host (ConPTY)
 │   ├── Pseudo Console API Wrapper
 │   │   ├── ConPTY Instance Manager
@@ -57,7 +57,7 @@ Windows Terminal
 │   └── Resize and Signal Handler
 │       ├── Terminal Resize Listener
 │       └── Signal Propagation Controller
-
+|
 └── Text Renderer
     ├── Rendering Engine
     │   ├── Text Layout Engine
