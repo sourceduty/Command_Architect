@@ -97,7 +97,7 @@ GOVERNANCE LAYER
 │       ├── Tactical / Operational Data Links (5G, SATCOM, DTN)
 │       └── External Interfaces (Cloud, Edge, Command Networks)
 │
-├── Governance Artifacts:
+└── Governance Artifacts:
     ├── Mission Doctrine / CONOPS
     ├── Regulatory & Safety Standards
     └── Interoperability Policies (STANAG, ISO, ECSS)
