@@ -57,6 +57,12 @@ The Program Command Architecture topology for robotics is a hierarchical model t
 
 #
 
+![3D Printer CLI](https://github.com/user-attachments/assets/9c74d1e3-ea27-41ee-b0b5-8e3a27585394)
+
+[3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli) was developed to manage, control, and monitor 3D printers through a terminal or command-line environment. It allows users to interact with the printer's firmware (such as Marlin or Klipper) by sending commands and receiving feedback via serial communication (USB, UART, etc.), typically using G-code or custom control protocols. The CLI can provide a wide range of functions, such as starting and stopping print jobs, controlling printer movements, adjusting temperatures, checking printer status, and handling error reporting. By enabling precise control, the 3D Printer CLI simplifies tasks such as print job queuing, temperature regulation, movement commands, and even filament changes. Additionally, the CLI can integrate with monitoring systems, logging tools, and even real-time print progress visualizations, offering flexibility and efficiency to both hobbyists and professionals. This interface is often preferred in embedded systems or Linux environments where graphical interfaces may not be suitable or desired, offering a lightweight and robust method for managing 3D printing operations with enhanced customization.
+
+#
+
 ![Terminal Hacker](https://github.com/user-attachments/assets/91d024cf-8770-48b7-a5ac-b67953296a99)
 
 #
