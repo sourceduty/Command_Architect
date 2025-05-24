@@ -8,7 +8,7 @@ The effectiveness of a command architecture lies in its ability to create decisi
 
 #
 
-![Trigger Decisions](https://github.com/user-attachments/assets/2273bfe9-cd73-49a5-a492-691e530dde1c)
+![Trigger Decisions](https://github.com/user-attachments/assets/44e7cfcc-951e-4f81-aedd-773100a5e1c7)
 
 In the domain of programming and artificial intelligence, command architecture refers to the structured design of how software systems—particularly intelligent agents and multi-agent frameworks—receive, interpret, and act on instructions or goals. It establishes the hierarchy and protocol by which commands are issued, decomposed into tasks, assigned to computational entities, and executed in accordance with both system rules and contextual awareness. In AI-driven systems, command architecture is crucial for orchestrating coordination between reasoning engines, perception modules, decision policies, and actuator interfaces. It defines how control flows between modules (e.g., from high-level planners to low-level controllers) and governs the interactions among autonomous components operating with varying degrees of agency. This structure ensures coherence in decision-making, minimizes latency in response loops, and enforces policy and constraint adherence across distributed systems. For example, in reinforcement learning-based agents or robotics, a layered command architecture might distinguish between deliberative planning, reactive control, and learning adaptation, each with defined inputs and outputs governed by the system's operational doctrine.
 
