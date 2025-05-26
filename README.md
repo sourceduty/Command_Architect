@@ -72,7 +72,7 @@ The Program Command Architecture topology for robotics is a hierarchical model t
 
 #
 
-![GPT-Driven Control](https://github.com/user-attachments/assets/7f1e2f75-7c85-4801-98ca-0daec6f1ab1f)
+![GPT-Driven Control](https://github.com/user-attachments/assets/916674ea-4b2c-4c94-b9bf-0bb24dd233f9)
 
 [GPT-Driven Control](https://chatgpt.com/g/g-6834c6bf3a688191913e4c14ff067e13-gpt-driven-control) was built to support the research, development, and implementation of autonomous, structured agentic systems powered by large language models like GPT. It serves as a foundational tool for creating modular architectures where reasoning, planning, memory, and action modules are clearly separated but interoperable, allowing for sophisticated control and command operations across diverse environments. The GPT facilitates the integration of multi-modal inputs and outputs, enabling agents to interact with complex data and execute tasks contextually and coherently. It emphasizes prompt engineering, chain-of-thought reasoning, and external tool use—such as APIs or simulators—to enhance the agent’s decision-making and adaptability. The system is particularly oriented toward high-stakes or operational scenarios like task delegation, crisis response, or automation, with continuous evaluation based on synthetic or real-world benchmarks. Ethical considerations, including safety, transparency, and controllability, are built into the development process, along with feedback loops for iterative learning and system refinement. This GPT acts as both a control interface and a developmental scaffold for building intelligent, autonomous agents with practical, real-world utility.
 
